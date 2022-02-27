@@ -20,10 +20,10 @@ placeholder{
   background-color: transparent;
 }
 @font-face{
-  font-family: trial;
+  font-family: Verdana, sans-serif;
   src: url('CENTRALESANSCND-BOLD.otf');
   font-weight: bold;}
   
-  body {font-family: georgia; color:black}
-  h1 {font-family:lobster; color: rgb(160, 190, 22)}
-  h5{font-family:lobster; color: yellowgreen}
+  body {font-family:'Times New Roman', serif; color:black}
+  h1 {font-family:'Brush Script MT', cursive; color: rgb(160, 190, 22)}
+  h5{font-family:'Brush Script MT', cursive; color: yellowgreen}
