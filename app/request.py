@@ -104,6 +104,7 @@ def get_category(cat_name):
         if get_cartegory_response['articles']:
             get_cartegory_list = get_cartegory_response['articles']
             get_cartegory_results = process_articles_results(get_cartegory_list)
+            # print (get_cartegory_results)
 
     return get_cartegory_results
 
