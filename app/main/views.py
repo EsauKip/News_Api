@@ -1,5 +1,6 @@
 
-from .. import main
+from .import main
+from flask import current_app
 from flask import render_template
 from ..request import get_source,article_source,get_category,get_headlines
 
