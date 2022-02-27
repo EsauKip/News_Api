@@ -19,3 +19,10 @@ input{
 placeholder{
   background-color: transparent;
 }
+@font-face{
+  font-family: trial;
+  src: url('CENTRALESANSCND-BOLD.otf');
+  font-weight: bold;}
+  
+  body {font-family: georgia; color:black}
+  h1 {font-family:lobster; color: rgb(160, 190, 22)}
