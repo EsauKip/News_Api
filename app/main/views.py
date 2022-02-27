@@ -1,7 +1,7 @@
 
-from . import app
+from .. import app
 from flask import render_template
-from .request import get_source,article_source,get_category,get_headlines
+from ..request import get_source,article_source,get_category,get_headlines
 
 #our views
 @app.route('/')
