@@ -1,5 +1,6 @@
 ## Mirror news
 * the mirror news is a web based application that displays variety of news based on categories ,countries and top breadlines.this is achieved using the news Api
+
 ### set up and installation
 # Prerequisite
 * python3.6
@@ -10,6 +11,8 @@
 * install flask modules
 # testing the application 
 * run the command python3.9 manage.py test
+# known bug
+* no known bug
 ## technologies used 
 * python3.9 
 * flask
